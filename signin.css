@@ -1,0 +1,64 @@
+*{
+  color: red;
+  font-family: Sans-Serif;
+  padding: 0;
+  margin: auto;
+}
+
+.siginbox
+{
+  display: flex;
+  display: inline-block;
+  border: dashed ;
+  border-color: black;
+  padding : 20px 20px;
+  margin: auto;
+  justify-content: center;
+  background-color: yellow ;
+ margin-left: 25%;
+ margin-right: 25%;
+ margin-top: 15%;
+}
+label
+{
+  display: flex;
+  padding: 10px;
+  margin: 20px ;
+  color: black;
+  background-color:yellow;
+  margin-right: 70%;
+  }
+input
+{
+  width: 400px;
+  height : 20px;
+  padding: 30px;
+}
+button
+{
+ size: 100px 200px;
+ margin-top: 20px;
+ font-size: 30px;
+ margin-bottom: 10px;
+}
+button:hover {
+  background-color: red;
+}
+body
+{
+  width: auto;
+  height:auto;
+}
+h1, h2 {
+  color: black;
+  background-color: white;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+p {
+  color: blue;
+}
+p a
+{
+  color: blue;
+}

@@ -1,0 +1,37 @@
+*
+{
+  background-color: yellow;
+  font-family: Sans-Serif, Comic Sans MS, Times New Roman, Tahoma;
+  
+  padding: 0%;
+  margin : 0%;
+  
+}
+h1
+{
+  background-color: blue;
+  color: white;
+}
+img
+{
+  padding-top: 10px;
+  border-radius: 50%;
+  width: 50%;
+  
+}
+.signup
+{
+ text-align: center;
+ color: red;
+}
+button
+{
+  padding-bottom: 10px;
+}
+marquee
+{
+  color: blue;
+}
+p{
+  justify-content: center;
+}
